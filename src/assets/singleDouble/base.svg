@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="153" height="51" viewBox="0 0 153 51">
+  <g id="椭圆_5" data-name="椭圆 5" transform="translate(103 1)" fill="#fff" stroke="#707070" stroke-width="1">
+    <circle cx="25" cy="25" r="25" stroke="none"/>
+    <circle cx="25" cy="25" r="24.5" fill="none"/>
+  </g>
+  <line id="直线_5" data-name="直线 5" x2="103" transform="translate(0 25.5)" fill="none" stroke="#707070" stroke-width="1"/>
+  <line id="直线_68" data-name="直线 68" x1="7" y2="5" transform="translate(97 25.5)" fill="none" stroke="#707070" stroke-width="1"/>
+  <line id="直线_69" data-name="直线 69" x2="7" y2="5" transform="translate(97 20.5)" fill="none" stroke="#707070" stroke-width="1"/>
+  <text id=":" transform="translate(21 17)" fill="#707070" font-size="16" font-family="SegoeUI, Segoe UI"><tspan x="0" y="0">:</tspan></text>
+</svg>

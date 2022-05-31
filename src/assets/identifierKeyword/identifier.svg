@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="94.5" height="52.5" viewBox="0 0 94.5 52.5">
+  <line id="直线_84" data-name="直线 84" x1="7" y2="5" transform="translate(87 21)" fill="none" stroke="#707070" stroke-width="1"/>
+  <line id="直线_83" data-name="直线 83" x2="7" y2="5" transform="translate(87 16)" fill="none" stroke="#707070" stroke-width="1"/>
+  <text id="标识符" transform="translate(26 17)" fill="#707070" font-size="16" font-family="MicrosoftJhengHeiUIRegular, Microsoft JhengHei UI"><tspan x="0" y="0">标识</tspan><tspan y="0" font-family="YuGothicUI-Regular, Yu Gothic UI">符</tspan></text>
+  <path id="路径_11" data-name="路径 11" d="M94,0H0" transform="translate(0.5 21.5)" fill="none" stroke="#707070" stroke-width="1"/>
+  <line id="直线_99" data-name="直线 99" y2="31" transform="translate(0.5 21.5)" fill="none" stroke="#707070" stroke-width="1"/>
+</svg>

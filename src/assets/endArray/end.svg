@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="258.5" height="39" viewBox="0 0 258.5 39">
+  <line id="直线_95" data-name="直线 95" x1="7" y2="5" transform="translate(250.584 21)" fill="none" stroke="#707070" stroke-width="1"/>
+  <line id="直线_96" data-name="直线 96" x2="7" y2="5" transform="translate(250.584 16)" fill="none" stroke="#707070" stroke-width="1"/>
+  <text id="程序结束标识" transform="translate(147.5 17)" fill="#707070" font-size="16" font-family="YuGothicUI-Regular, Yu Gothic UI"><tspan x="0" y="0">程序</tspan><tspan y="0" font-family="MicrosoftJhengHeiUIRegular, Microsoft JhengHei UI">结</tspan><tspan y="0">束</tspan><tspan y="0" font-family="MicrosoftJhengHeiUIRegular, Microsoft JhengHei UI">标识</tspan></text>
+  <line id="直线_91" data-name="直线 91" y1="18" transform="translate(0.5 21)" fill="none" stroke="#707070" stroke-width="1"/>
+  <line id="直线_92" data-name="直线 92" y1="18" transform="translate(0.5 21)" fill="none" stroke="#707070" stroke-width="1"/>
+  <line id="直线_93" data-name="直线 93" x2="240" transform="translate(18.5 21)" fill="none" stroke="#707070" stroke-width="1"/>
+  <line id="直线_94" data-name="直线 94" x2="258" transform="translate(0.5 21)" fill="none" stroke="#707070" stroke-width="1"/>
+  <text id="其他符号" transform="translate(5 17.5)" fill="#707070" font-size="16" font-family="YuGothicUI-Regular, Yu Gothic UI"><tspan x="0" y="0">其他符号</tspan></text>
+  <text id="其他符号-2" data-name="其他符号" transform="translate(5 17.5)" fill="#707070" font-size="16" font-family="YuGothicUI-Regular, Yu Gothic UI"><tspan x="0" y="0">其他符号</tspan></text>
+</svg>

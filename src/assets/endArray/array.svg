@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="232.374" height="50" viewBox="0 0 232.374 50">
+  <g id="椭圆_9" data-name="椭圆 9" transform="translate(60)" fill="#fff" stroke="#707070" stroke-width="1">
+    <circle cx="25" cy="25" r="25" stroke="none"/>
+    <circle cx="25" cy="25" r="24.5" fill="none"/>
+  </g>
+  <line id="直线_17" data-name="直线 17" x2="122" transform="translate(110 25)" fill="none" stroke="#707070" stroke-width="1"/>
+  <line id="直线_10" data-name="直线 10" x2="60.247" transform="translate(0 24.5)" fill="none" stroke="#707070" stroke-width="1"/>
+  <line id="直线_62" data-name="直线 62" x1="7" y2="5" transform="translate(53 24.5)" fill="none" stroke="#707070" stroke-width="1"/>
+  <line id="直线_28" data-name="直线 28" x1="7" y2="5" transform="translate(225.084 25)" fill="none" stroke="#707070" stroke-width="1"/>
+  <line id="直线_63" data-name="直线 63" x2="7" y2="5" transform="translate(53 19.5)" fill="none" stroke="#707070" stroke-width="1"/>
+  <line id="直线_29" data-name="直线 29" x2="7" y2="5" transform="translate(225.084 20)" fill="none" stroke="#707070" stroke-width="1"/>
+  <text id="_." data-name="." transform="translate(23 21)" fill="#707070" font-size="16" font-family="SegoeUI, Segoe UI"><tspan x="0" y="0">.</tspan></text>
+  <text id="数组下标界限符" transform="translate(113 21)" fill="#707070" font-size="16" font-family="YuGothicUI-Regular, Yu Gothic UI"><tspan x="0" y="0">数</tspan><tspan y="0" font-family="MicrosoftJhengHeiUIRegular, Microsoft JhengHei UI">组</tspan><tspan y="0">下</tspan><tspan y="0" font-family="MicrosoftJhengHeiUIRegular, Microsoft JhengHei UI">标</tspan><tspan y="0">界限符</tspan></text>
+</svg>

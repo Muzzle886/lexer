@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="258.084" height="38.5" viewBox="0 0 258.084 38.5">
+  <line id="直线_87" data-name="直线 87" x1="7" y2="5" transform="translate(250.584 20.5)" fill="none" stroke="#707070" stroke-width="1"/>
+  <line id="直线_88" data-name="直线 88" x2="7" y2="5" transform="translate(250.584 15.5)" fill="none" stroke="#707070" stroke-width="1"/>
+  <text id="单分界符" transform="translate(180 17)" fill="#707070" font-size="16" font-family="MicrosoftJhengHeiUIRegular, Microsoft JhengHei UI"><tspan x="0" y="0">单</tspan><tspan y="0" font-family="YuGothicUI-Regular, Yu Gothic UI">分界符</tspan></text>
+  <line id="直线_85" data-name="直线 85" y1="18" transform="translate(0.5 20.5)" fill="none" stroke="#707070" stroke-width="1"/>
+  <line id="直线_86" data-name="直线 86" x2="257.584" transform="translate(0.5 20.5)" fill="none" stroke="#707070" stroke-width="1"/>
+  <text id="其他符号" transform="translate(5 17)" fill="#707070" font-size="16" font-family="YuGothicUI-Regular, Yu Gothic UI"><tspan x="0" y="0">其他符号</tspan></text>
+</svg>

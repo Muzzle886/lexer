@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="384.874" height="27.407" viewBox="0 0 384.874 27.407">
+  <g id="报错" transform="translate(-197.5 -716.5)">
+    <line id="直线_18" data-name="直线 18" x2="384.584" transform="translate(197.5 738.5)" fill="none" stroke="#707070" stroke-width="1"/>
+    <line id="直线_58" data-name="直线 58" x1="7" y2="5" transform="translate(575.084 738.5)" fill="none" stroke="#707070" stroke-width="1"/>
+    <line id="直线_59" data-name="直线 59" x2="7" y2="5" transform="translate(575.084 733.5)" fill="none" stroke="#707070" stroke-width="1"/>
+    <text id="其他符号" transform="translate(203.5 733.5)" fill="#707070" font-size="16" font-family="YuGothicUI-Regular, Yu Gothic UI"><tspan x="0" y="0">其他符号</tspan></text>
+    <text id="报错-2" data-name="报错" transform="translate(535 736)" fill="#707070" font-size="16" font-family="MicrosoftJhengHeiUIRegular, Microsoft JhengHei UI"><tspan x="0" y="0">报错</tspan></text>
+  </g>
+</svg>

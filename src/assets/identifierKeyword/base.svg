@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="292" height="70.65" viewBox="0 0 292 70.65">
+  <g id="椭圆_2" data-name="椭圆 2" transform="translate(103 20.65)" fill="#fff" stroke="#707070" stroke-width="1">
+    <circle cx="25" cy="25" r="25" stroke="none"/>
+    <circle cx="25" cy="25" r="24.5" fill="none"/>
+  </g>
+  <line id="直线_2" data-name="直线 2" x2="103" transform="translate(0 45.15)" fill="none" stroke="#707070" stroke-width="1"/>
+  <line id="直线_19" data-name="直线 19" x2="139" transform="translate(153 45.65)" fill="none" stroke="#707070" stroke-width="1"/>
+  <line id="直线_76" data-name="直线 76" x1="7" y2="5" transform="translate(96 44.65)" fill="none" stroke="#707070" stroke-width="1"/>
+  <line id="直线_55" data-name="直线 55" x1="7" y2="5" transform="translate(140.325 16.639) rotate(114)" fill="none" stroke="#707070" stroke-width="1"/>
+  <line id="直线_77" data-name="直线 77" x2="7" y2="5" transform="translate(96 39.65)" fill="none" stroke="#707070" stroke-width="1"/>
+  <line id="直线_54" data-name="直线 54" x2="7" y2="5" transform="translate(144.893 18.673) rotate(114)" fill="none" stroke="#707070" stroke-width="1"/>
+  <path id="路径_9" data-name="路径 9" d="M1258.593,501.89c-13.575-19.606,10.093-25.522,18.66-18.827s1.371,18.062,1.371,18.062" transform="matrix(0.998, 0.07, -0.07, 0.998, -1103.309, -566.221)" fill="none" stroke="#707070" stroke-width="1"/>
+  <text id="字母" transform="translate(28 34.65)" fill="#707070" font-size="16" font-family="YuGothicUI-Regular, Yu Gothic UI"><tspan x="0" y="0">字母</tspan></text>
+  <text id="字母_数字" data-name="字母、数字" transform="translate(146 18.65)" fill="#707070" font-size="16" font-family="YuGothicUI-Regular, Yu Gothic UI"><tspan x="0" y="0">字母、数字</tspan></text>
+</svg>

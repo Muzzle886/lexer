@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="234.374" height="50" viewBox="0 0 234.374 50">
+  <g id="椭圆_12" data-name="椭圆 12" transform="translate(60)" fill="#fff" stroke="#707070" stroke-width="1">
+    <circle cx="25" cy="25" r="25" stroke="none"/>
+    <circle cx="25" cy="25" r="24.5" fill="none"/>
+  </g>
+  <line id="直线_14" data-name="直线 14" x2="124" transform="translate(110 25)" fill="none" stroke="#707070" stroke-width="1"/>
+  <line id="直线_13" data-name="直线 13" x2="60.247" transform="translate(0 24.5)" fill="none" stroke="#707070" stroke-width="1"/>
+  <line id="直线_66" data-name="直线 66" x1="7" y2="5" transform="translate(53.247 24.5)" fill="none" stroke="#707070" stroke-width="1"/>
+  <line id="直线_32" data-name="直线 32" x1="7" y2="5" transform="translate(227.084 25)" fill="none" stroke="#707070" stroke-width="1"/>
+  <line id="直线_67" data-name="直线 67" x2="7" y2="5" transform="translate(53.247 19.5)" fill="none" stroke="#707070" stroke-width="1"/>
+  <line id="直线_33" data-name="直线 33" x2="7" y2="5" transform="translate(227.084 20)" fill="none" stroke="#707070" stroke-width="1"/>
+  <text id="双分界符" transform="translate(156 21)" fill="#707070" font-size="16" font-family="YuGothicUI-Regular, Yu Gothic UI"><tspan x="0" y="0">双分界符</tspan></text>
+  <text id="_" data-name="=" transform="translate(21 19)" fill="#707070" font-size="16" font-family="SegoeUI, Segoe UI"><tspan x="0" y="0">=</tspan></text>
+</svg>

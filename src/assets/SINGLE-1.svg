@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="386.374" height="30.907" viewBox="0 0 386.374 30.907">
+  <line id="直线_4" data-name="直线 4" x2="386.084" transform="translate(0 25.5)" fill="none" stroke="#707070" stroke-width="1"/>
+  <line id="直线_34" data-name="直线 34" x1="7" y2="5" transform="translate(379.084 25.5)" fill="none" stroke="#707070" stroke-width="1"/>
+  <line id="直线_35" data-name="直线 35" x2="7" y2="5" transform="translate(379.084 20.5)" fill="none" stroke="#707070" stroke-width="1"/>
+  <text id="_-_:" data-name="+ , - , * , / , ( , ) , [ , ] , ; , = , &lt; , :" transform="translate(21 17)" fill="#707070" font-size="16" font-family="SegoeUI, Segoe UI"><tspan x="0" y="0">+ , - , * , / , ( , ) , [ , ] , ; , = , &lt; , :</tspan></text>
+  <text id="单分界符" transform="translate(308 22)" fill="#707070" font-size="16" font-family="MicrosoftJhengHeiUIRegular, Microsoft JhengHei UI"><tspan x="0" y="0">单</tspan><tspan y="0" font-family="YuGothicUI-Regular, Yu Gothic UI">分界符</tspan></text>
+</svg>
